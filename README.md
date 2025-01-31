@@ -20,5 +20,7 @@
  2.  API Integration
      - OpenWeatherMap: Real-time weather data.
      - Example API endpoint:[https://api.openweathermap.org/data/2.5/weather?q={country}&units=metric&appid={API_Key}]
+## Video Demo: 
+  https://github.com/user-attachments/assets/584cb23d-3497-476b-897f-73f472e52ef1
 
 
